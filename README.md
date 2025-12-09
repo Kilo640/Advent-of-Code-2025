@@ -6,7 +6,7 @@
 | Day 2  | [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day2/SolutionP1.java)   |  [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day2/SolutionP2.java)   |
 | Day 3  | [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day3/SolutionP1.java)   |  [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day3/SolutionP2.java)  |
 | Day 4  | [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day4/SolutionP1.java)   |  [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day4/SolutionP2.java)  |
-| Day 5  | NOT STARTED   |  NOT STARTED  |
+| Day 5  | [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day5/SolutionP1.java)   |  [DONE!](https://github.com/Kilo640/Advent-of-Code-2025/blob/main/Day5/SolutionP2.java)  |
 | Day 6  | NOT STARTED   |  NOT STARTED  |
 | Day 7  | NOT STARTED   |  NOT STARTED  |
 | Day 8  | NOT STARTED   |  NOT STARTED  |
